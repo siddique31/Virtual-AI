@@ -1,4 +1,4 @@
-const axios  require('axios')
+const axios = require('axios')
 const { uploadToS3 } = require('./s3Uploader')
 
 async function generateVoice(text, voiceId = '21m00Tcm4TlvDq8ikWAM') {
