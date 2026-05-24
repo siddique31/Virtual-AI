@@ -8,6 +8,12 @@ const inter = Inter({ subsets: ['latin'] })
 export const metadata = {
   title: 'AI Video Generator - Create Videos with AI Voice',
   description: 'Generate stunning AI-powered videos with realistic voiceovers',
+  icons: {
+    icon: [
+      { url: '/favicon.ico', sizes: 'any' },
+      { url: '/favicon.svg', type: 'image/svg+xml' },
+    ],
+  },
 }
 
 export default function RootLayout({ children }) {
