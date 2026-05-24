@@ -13,9 +13,7 @@
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "axios": "^1.6.2",
-    "socket.io-client": "^4.7.2",
     "react-hot-toast": "^2.4.1",
-    "react-dropzone": "^14.2.3",
     "lucide-react": "^0.303.0"
   },
   "devDependencies": {
